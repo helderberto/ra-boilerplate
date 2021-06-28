@@ -2061,7 +2061,7 @@
     global "^4.4.0"
     regenerator-runtime "^0.13.7"
 
-"@storybook/addons@6.3.1", "@storybook/addons@^6.3.0":
+"@storybook/addons@6.3.1", "@storybook/addons@^6.3.0-beta.6":
   version "6.3.1"
   resolved "https://registry.yarnpkg.com/@storybook/addons/-/addons-6.3.1.tgz#c72bf216d0ae7ff3901fc3c4d7b71a6837b51b76"
   integrity sha512-wDDqhd/jOXo752LQmNFdWlQOdzk/ZcsnOELXUpGY8QWzS9uasR1rZzCR78sFzsUTRyyMDAeiVHmKUlD2n4EL0g==
@@ -2076,7 +2076,7 @@
     global "^4.4.0"
     regenerator-runtime "^0.13.7"
 
-"@storybook/api@6.3.0":
+"@storybook/api@6.3.0", "@storybook/api@^6.3.0-beta.6":
   version "6.3.0"
   resolved "https://registry.yarnpkg.com/@storybook/api/-/api-6.3.0.tgz#5ecb646e7c3c4c7c494bb15f4c94554f7f4ee09e"
   integrity sha512-swPMcQadLDRTnMjL9dwY6K1zXHn3KcAa3euvSHd1R4OKXTSBBj1zHvIaOrq6yHz7RIYOACmZlEV3CUru9FlvEA==
@@ -2102,7 +2102,7 @@
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
 
-"@storybook/api@6.3.1", "@storybook/api@^6.3.0":
+"@storybook/api@6.3.1":
   version "6.3.1"
   resolved "https://registry.yarnpkg.com/@storybook/api/-/api-6.3.1.tgz#17b0a50208212666992fac5da74cc56de66078d2"
   integrity sha512-70T9xaKWMP9xE4zOLLQiqmmWbsYk3nAFfwSnCu8oGb2Iq5bwfGDnm///n1/84OkObYv4OzVoRbIyLD+Xsx1Fnw==
@@ -2388,7 +2388,7 @@
     core-js "^3.8.2"
     global "^4.4.0"
 
-"@storybook/components@6.3.0":
+"@storybook/components@6.3.0", "@storybook/components@^6.3.0-beta.6":
   version "6.3.0"
   resolved "https://registry.yarnpkg.com/@storybook/components/-/components-6.3.0.tgz#5ad372abd60ee0cb02516f960f514659e3fbf865"
   integrity sha512-TDcazQAtNgE1E33jKKABx51XpvWyXMcJZFWA0d5wu8XrElrL1PuZqz7dPePoWKGMfTaPYWP6rRyDg4Svv36j+A==
@@ -2418,7 +2418,7 @@
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
 
-"@storybook/components@6.3.1", "@storybook/components@^6.3.0":
+"@storybook/components@6.3.1":
   version "6.3.1"
   resolved "https://registry.yarnpkg.com/@storybook/components/-/components-6.3.1.tgz#a94488941a64c64bba7d6e042e4a1d4ce99bc58d"
   integrity sha512-sCNalGXSMzVCoElRUYKS+EuIJQr5zNbPepFVzZWXGj2cKd7z6LtHNyEN/3eTnR7Ivdpaf43IZc9pIBmBvSmIFQ==
@@ -2602,14 +2602,14 @@
     util-deprecate "^1.0.2"
     webpack "4"
 
-"@storybook/core-events@6.3.0":
+"@storybook/core-events@6.3.0", "@storybook/core-events@^6.3.0-beta.6":
   version "6.3.0"
   resolved "https://registry.yarnpkg.com/@storybook/core-events/-/core-events-6.3.0.tgz#5e220a866db5b93550b5c3464774a7b10ad036a6"
   integrity sha512-ZGTm5nQvFLlc2LVgoDyxo99MbQcFqQzkxIQReFkO7hPwwkcjcwmdBtnlmkn9/p5QQ5/8aU0k+ceCkrBNu1M83w==
   dependencies:
     core-js "^3.8.2"
 
-"@storybook/core-events@6.3.1", "@storybook/core-events@^6.3.0":
+"@storybook/core-events@6.3.1":
   version "6.3.1"
   resolved "https://registry.yarnpkg.com/@storybook/core-events/-/core-events-6.3.1.tgz#dc66466955364505acc4e6c0b2e4d8e9bc5148d1"
   integrity sha512-W+0eRG955kd0HlD+8gGNeXogEnxEugfjDr9g316vawYlz9qnPoBxad8LoLPys5RawboK+1erOEfI2owGqDiKHw==
@@ -2865,10 +2865,10 @@
     npmlog "^4.1.2"
     pretty-hrtime "^1.0.3"
 
-"@storybook/postinstall@6.3.1":
-  version "6.3.1"
-  resolved "https://registry.yarnpkg.com/@storybook/postinstall/-/postinstall-6.3.1.tgz#2f245e948de274ff10a6df73814130e9a0ac6247"
-  integrity sha512-xmDYJ7dcdc5zKNOvPbtIVgde5bM+advFzOFdstU1NRPojfGK8J6/RbJ1QD07fNb3eD6p2S8rTlXZ0wBvOlrP9g==
+"@storybook/postinstall@6.3.0":
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/@storybook/postinstall/-/postinstall-6.3.0.tgz#616999e96bc2f30e5deefd3c75415ce1dbc35cb3"
+  integrity sha512-QhhrhnB4yRdn5DGzygitccoKOYV+nKXWtQQm1TvEjMGrbZu57kI4X3TAsU4f3+wU8Xbdlfc8vhXpgCSzofRzGA==
   dependencies:
     core-js "^3.8.2"
 
@@ -2885,18 +2885,18 @@
     react-docgen-typescript "^2.0.0"
     tslib "^2.0.0"
 
-"@storybook/react@6.3.0":
-  version "6.3.0"
-  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.3.0.tgz#e86ef1976fba2f0f80925278f196fb709df55eb4"
-  integrity sha512-GxK88Si9WQa16uUsUBhe6kRhSEZUrR/1ljP6QvLY+C5MyYJZ89DZPAbWnVo47SJCXhAlvJW83nSTSxnobn8RWA==
+"@storybook/react@6.3.1":
+  version "6.3.1"
+  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.3.1.tgz#99e31dd3dcfd548d74ac90abd6b0932974827ef9"
+  integrity sha512-P3neN04YWpIyJ0kLq5UWo390wwM9HG6hVOJUi1uw9lMFbZoy/oVM77ot+77Mtfq3S58Rv51iohFF9DAkxPFNzA==
   dependencies:
     "@babel/preset-flow" "^7.12.1"
     "@babel/preset-react" "^7.12.10"
     "@pmmmwh/react-refresh-webpack-plugin" "^0.4.3"
-    "@storybook/addons" "6.3.0"
-    "@storybook/core" "6.3.0"
-    "@storybook/core-common" "6.3.0"
-    "@storybook/node-logger" "6.3.0"
+    "@storybook/addons" "6.3.1"
+    "@storybook/core" "6.3.1"
+    "@storybook/core-common" "6.3.1"
+    "@storybook/node-logger" "6.3.1"
     "@storybook/react-docgen-typescript-plugin" "1.0.2-canary.3c70e01.0"
     "@storybook/semver" "^7.3.2"
     "@types/webpack-env" "^1.16.0"
