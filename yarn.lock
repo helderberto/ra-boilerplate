@@ -2076,7 +2076,7 @@
     global "^4.4.0"
     regenerator-runtime "^0.13.7"
 
-"@storybook/api@6.3.2":
+"@storybook/api@6.3.2", "@storybook/api@^6.3.0":
   version "6.3.2"
   resolved "https://registry.yarnpkg.com/@storybook/api/-/api-6.3.2.tgz#669c9eb1b5f50659b894f374af1c3eb3d4c2ac20"
   integrity sha512-rXe7l8mwNEvk3cqHYJ4H2XQWWY8oeezJezgt1ZBq4GvNVzVUPjASi1meXQwAYm39SdCL5+lP/hLpAZvobB1Tag==
@@ -2102,7 +2102,7 @@
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
 
-"@storybook/api@6.3.3", "@storybook/api@^6.3.0":
+"@storybook/api@6.3.3":
   version "6.3.3"
   resolved "https://registry.yarnpkg.com/@storybook/api/-/api-6.3.3.tgz#094b57959dc4c81f69a53d6f16373b69faeda3d8"
   integrity sha512-Q8LxULCZF/ZUalamvNXLbT7x3bmH2She5TZFTyEINJF7W1UX5wluWnJ6RonAFxAK7GvLTf0wSHS7wzritJGMjg==
@@ -2902,10 +2902,10 @@
     npmlog "^4.1.2"
     pretty-hrtime "^1.0.3"
 
-"@storybook/postinstall@6.3.3":
-  version "6.3.3"
-  resolved "https://registry.yarnpkg.com/@storybook/postinstall/-/postinstall-6.3.3.tgz#8a72a323bad333743eafbd05b1fc759d146bbe19"
-  integrity sha512-J0r3haDjCRjj6jCYqTokOzXP6Udyq45HGXvjb9usY4sOH6c18fuAarcD2VmfdYJ3LqOl15U0p8zCW1QDnpvwXw==
+"@storybook/postinstall@6.3.2":
+  version "6.3.2"
+  resolved "https://registry.yarnpkg.com/@storybook/postinstall/-/postinstall-6.3.2.tgz#6abe1093fd3f12614bbcd9bc90d65abaaf311587"
+  integrity sha512-RkzrEr5GyBKFEPwOJw6JFRqkCtexvqZbyQeDuQ8K5AxRoJOcdXfxtb2Qkq06wfUnexxhZ9R0ktzepdtzk89ALw==
   dependencies:
     core-js "^3.8.2"
 
@@ -2922,18 +2922,18 @@
     react-docgen-typescript "^2.0.0"
     tslib "^2.0.0"
 
-"@storybook/react@6.3.2":
-  version "6.3.2"
-  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.3.2.tgz#6c9b2e010874ccc991a511cfed87b134ef02bc6d"
-  integrity sha512-AwuXzvu6zKSZnWFgYWxvP1QumnJ/8VChZJ1/pCEW3IGqxtSBd7KAF7EjlmS6CqAnWP+zp9jUr7It1P9631CwNQ==
+"@storybook/react@6.3.3":
+  version "6.3.3"
+  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.3.3.tgz#18b1db7e5b0d57037dad4884ac07f3244619d2f2"
+  integrity sha512-dJjEugouMw0TdL/4R/lRKA6kdmS3NUmK5LfZeNyO9s/iygYwIdHowh1x5vzQO2ZUaaTKnI4OZ3GNxs+ULjUEPg==
   dependencies:
     "@babel/preset-flow" "^7.12.1"
     "@babel/preset-react" "^7.12.10"
     "@pmmmwh/react-refresh-webpack-plugin" "^0.4.3"
-    "@storybook/addons" "6.3.2"
-    "@storybook/core" "6.3.2"
-    "@storybook/core-common" "6.3.2"
-    "@storybook/node-logger" "6.3.2"
+    "@storybook/addons" "6.3.3"
+    "@storybook/core" "6.3.3"
+    "@storybook/core-common" "6.3.3"
+    "@storybook/node-logger" "6.3.3"
     "@storybook/react-docgen-typescript-plugin" "1.0.2-canary.253f8c1.0"
     "@storybook/semver" "^7.3.2"
     "@types/webpack-env" "^1.16.0"
